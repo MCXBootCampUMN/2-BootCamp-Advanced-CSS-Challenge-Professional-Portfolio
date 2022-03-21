@@ -41,6 +41,6 @@ https://github.com/Mcnoor/Runbuddy.git
 
 ## **_Contribution_**
 
-Made with ❤️ by Noemie
+Made with ❤️ by Max-Noor
 
-### ©️2019 Run Buddy, Inc
+### ©️2022 Portfolio
