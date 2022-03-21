@@ -1,0 +1,278 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background-color: white;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  padding: 10px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04aa6d;
+  color: white;
+  margin: 5px;
+  border-top: 20px;
+}
+
+.topnav-right {
+  float: right;
+}
+
+.active {
+  margin-left: 20px;
+}
+.banner {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: right;
+  padding-right: 30px;
+
+  background-image: url(https://www.evopayments.us/wp-content/uploads/2021/07/AndersonZaks-1.jpg);
+}
+
+.h2 {
+  padding-right: 50px;
+}
+
+.h2 h2 {
+  font-size: xx-large;
+  padding: 20px;
+  color: aqua;
+  background-color: #04aa6d;
+}
+
+.mother {
+  display: flex;
+  flex-direction: column;
+  background-color: Lavender;
+}
+
+.parent1 {
+  align-content: center;
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  /* align-items: ; */
+}
+
+.leftbar {
+  margin-right: 25px;
+  font-size: x-large;
+  color: MidnightBlue;
+  padding-left: 20px;
+  margin-top: 10px;
+  text-align: right;
+  width: 100px;
+}
+
+.about2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.aboutimg {
+  margin: 20px;
+}
+.aboutdetail {
+  margin: 20px;
+}
+
+.detail {
+  text-align: left;
+  padding: 10px;
+}
+
+.parent2 {
+  align-content: center;
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.parent3 {
+  align-content: center;
+
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+}
+.parent4 {
+  align-content: center;
+
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.workbox {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.child1 {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  padding: 10px;
+  width: 98%;
+}
+
+.child2 {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  padding: 10px;
+
+  width: 98%;
+}
+
+.lw {
+  height: 300px;
+  flex: 1;
+}
+
+.cal {
+  margin-left: 20px;
+  height: 300px;
+  flex: 1;
+}
+
+.pp {
+  width: 600px;
+  height: 300px;
+  flex: 1;
+}
+
+.rb {
+  margin-left: 20px;
+  height: 300px;
+  flex: 1;
+}
+
+.line {
+  border-left: 5px solid MidnightBlue;
+  margin-left: 10px;
+}
+
+.contnav {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.footer {
+  border-bottom: red solid;
+  margin-left: 25%;
+}
+
+.surf {
+  width: 100%;
+  height: 700px;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: left;
+
+  background-image: url(https://ewscripps.brightspotcdn.com/dims4/default/809faf7/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F38%2Fa9%2F56c3fef0430eb1cdd571a61f1193%2Fwptv-surf-forecast.jpg);
+}
+
+.surfreport {
+  margin: 50px;
+  margin-bottom: 500px;
+  margin-left: 0px;
+  background-color: aquamarine;
+  padding: 15px;
+}
+.ledwall {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: left;
+
+  background-image: url(https://www.matrixvisual.com/wp-content/uploads/2016/07/LED-Wall-Benefits.png);
+}
+
+.rbg {
+  /* margin-bottom: 200px; */
+  margin-left: 0px;
+  background-color: lime;
+  padding: 15px;
+}
+
+.calculat {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: left;
+
+  background-image: url(https://www.casio-intl.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=content-disposition&blobheadervalue1=inline%3Bfilename%3DPortable+Standard+Calculator+720x405.jpg&blobkey=id&blobtable=MungoBlobs&blobwhere=1426195155860&ssbinary=true);
+}
+
+.digi {
+  /* margin-bottom: 200px; */
+  margin-left: 0px;
+  background-color: lime;
+  padding: 15px;
+}
+
+.pretpz {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: left;
+
+  background-image: url(https://www.cademuseum.org/uploads/2/5/7/2/25721946/s187452157188977673_p26_i2_w1200.jpeg);
+}
+
+.pieces {
+  margin-left: 0px;
+  background-color: lime;
+  padding: 15px;
+}
+
+.runbud {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: left;
+
+  background-image: url(https://courses.bootcampspot.com/courses/1207/files/1308042/preview);
+}
+
+.shoes {
+  margin-left: 0px;
+  background-color: lime;
+  padding: 15px;
+}
