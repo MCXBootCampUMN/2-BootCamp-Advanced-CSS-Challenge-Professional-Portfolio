@@ -33,11 +33,11 @@ A website is a webpage that shows an "About me", "Projects worked on" and their 
 
 ## **_Link URL to deployed website on GitHub_**
 
-https://mcnoor.github.io/Runbuddy/
+https://mcnoor.github.io/Challenge2-BC/
 
 ## **_Link URL to GitHub Repository_**
 
-https://github.com/Mcnoor/Runbuddy.git
+https://github.com/Mcnoor/Challenge2-BC.git
 
 ## **_Contribution_**
 
