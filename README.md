@@ -33,7 +33,7 @@ A website is a webpage that shows an "About me", "Projects worked on" and their 
 
 ## **_Link URL to deployed website on GitHub_**
 
-https://mcnoor.github.io/Challenge2-BC/
+https://mcnoor.github.io/2-BootCamp-Advanced-CSS-Challenge-Professional-Portfolio//
 
 ## **_Link URL to GitHub Repository_**
 
