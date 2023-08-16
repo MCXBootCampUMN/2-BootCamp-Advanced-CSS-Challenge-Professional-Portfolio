@@ -233,7 +233,7 @@ body {
   align-items: flex-end;
   justify-content: left;
 
-  background-image: url(https://www.casio-intl.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=content-disposition&blobheadervalue1=inline%3Bfilename%3DPortable+Standard+Calculator+720x405.jpg&blobkey=id&blobtable=MungoBlobs&blobwhere=1426195155860&ssbinary=true);
+  background-image: url(https://raw.githubusercontent.com/MCXBootCampUMN/2-BootCamp-Advanced-CSS-Professional-Portfolio/main/img/calculator-img.png);
 }
 
 .digi {
@@ -251,7 +251,7 @@ body {
   align-items: flex-end;
   justify-content: left;
 
-  background-image: url(https://www.cademuseum.org/uploads/2/5/7/2/25721946/s187452157188977673_p26_i2_w1200.jpeg);
+  background-image: url(https://raw.githubusercontent.com/MCXBootCampUMN/2-BootCamp-Advanced-CSS-Professional-Portfolio/main/img/puzzle-game-img.png);
 }
 
 .pieces {
@@ -268,7 +268,7 @@ body {
   align-items: flex-end;
   justify-content: left;
 
-  background-image: url(https://user-images.githubusercontent.com/78329298/110898167-90800d00-82b3-11eb-863b-ff62d3e5e2c3.png);
+  background-image: url(https://raw.githubusercontent.com/MCXBootCampUMN/2-BootCamp-Advanced-CSS-Professional-Portfolio/main/img/runbuddy-img.png);
 }
 
 .shoes {
