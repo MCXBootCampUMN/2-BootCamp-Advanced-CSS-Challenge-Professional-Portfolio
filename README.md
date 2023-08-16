@@ -1,4 +1,4 @@
-# Challenge2-BC
+# Advanced-CSS-Professional-Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge2-BC)
 
