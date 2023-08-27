@@ -2,14 +2,14 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge2-BC)
 
-## **Section of contents\_**
+## **Section of contents\**
 
 - About Me
 - Work
 - Resume
 - Contact Me
 
-### **Parts of contents\_**
+### **Parts of contents\**
 
 - Portfolio
 - Surf Report
