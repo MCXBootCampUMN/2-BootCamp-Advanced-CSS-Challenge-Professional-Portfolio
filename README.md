@@ -29,7 +29,7 @@ A website is a webpage that shows an "About me", "Projects worked on" and their 
 
 ## **_Mockup_**
 
-<img width="200" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/2-BootCamp-Advanced-CSS-Professional-Portfolio/main/img/CSS-Portfolio.png" width="400px">
+<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/2-BootCamp-Advanced-CSS-Professional-Portfolio/main/img/CSS-Portfolio.png">
 
 
 
