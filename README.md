@@ -29,7 +29,9 @@ A website is a webpage that shows an "About me", "Projects worked on" and their 
 
 ## **_Mockup_**
 
-[Portfolio]()
+<img width="200" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/2-BootCamp-Advanced-CSS-Professional-Portfolio/main/img/CSS-Portfolio.png">
+
+
 
 ## **_Link URL to deployed website on GitHub_**
 [Github-Project](https://mcxbootcampumn.github.io/2-BootCamp-Advanced-CSS-Professional-Portfolio/)
