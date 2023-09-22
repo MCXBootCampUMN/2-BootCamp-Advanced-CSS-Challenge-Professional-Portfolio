@@ -37,7 +37,7 @@ A website is a webpage that shows an "About me", "Projects worked on" and their 
 
 
 ## **_Link URL to deployed website on GitHub_**
-[GitHub-Project](https://mcxbootcampumn.github.io/Maxamed-NCX/2-Advanced-CSS-Professional-Portfolio/)
+[Deployed-Project](https://maxamed-ncx.github.io/2-Advanced-CSS-Professional-Portfolio/)
 
 ## **_Link URL to GitHub Repository_**
 
