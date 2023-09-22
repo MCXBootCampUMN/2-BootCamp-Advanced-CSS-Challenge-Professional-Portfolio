@@ -3,7 +3,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge2-BC)
 
-## UofM BootCamp: Application 2 / ## Portfolio 1 Project
+## UofM BootCamp: Application 2 / Portfolio 1 Project
 
 ## **Section of contents\**
 
