@@ -34,11 +34,11 @@ A website is a webpage that shows an "About me", "Projects worked on" and their 
 
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://mcxbootcampumn.github.io/2-BootCamp-Advanced-CSS-Professional-Portfolio/)
+[GitHub-Project](https://mcxbootcampumn.github.io/2-BootCamp-Advanced-CSS-Professional-Portfolio/)
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/Mcnoor/Challenge2-BC.git)
+[GitHub-Repo](https://github.com/Mcnoor/Challenge2-BC.git)
 
 ## **_Contribution_**
 
